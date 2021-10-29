@@ -3,9 +3,9 @@
 ![gif view of chirper](https://github.com/akiid777/chirper-twitter-clone/blob/main/Peek%202021-10-16%2019-10.gif)
 
 
-This is the Chirper ( Twitter Clone programe ) which is a part of Udacity nanodegree in React and Redux ( Front - end developer ). I joind this degree as one student of FWD scholership. 
+This is the Chirper ( Twitter Clone programme ) which is a part of Udacity nano degree in React and Redux ( Front - end developer ). I joined this degree as one student of the FWD scholarship.
 
-In this project you will find shelfs and books that can be moved around the shelfs. use down-right green + sign to add more books. the Book API is mintained and controled by udacity.
+In this project, you will find Twitter cloned with 3 default users (Tyler, Sarah and Dan). You can retweet and replay different tweets.
 
 
 for view version click on see project or please visit:
